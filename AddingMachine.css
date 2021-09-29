@@ -5,7 +5,7 @@ input{
   background-color: green;
   font-size: 30px;
   font-family: monospace;
-}
+} 
 
 input:hover{
   background-color: #66ffd1;
